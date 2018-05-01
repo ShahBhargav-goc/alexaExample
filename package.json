@@ -1,21 +1,21 @@
 {
   "name": "skill",
   "version": "1.0.0",
-  "description": "skill for targetrecruit",
+  "description": "skill for alexaExample",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rsanjuseason/targetRecruitAlexaSkill.git"
+    "url": "git+https://github.com/ShahBhargav-goc/alexaExample.git"
   },
-  "author": "NPM @sanjay",
+  "author": "NPM @Bhargav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rsanjuseason/targetRecruitAlexaSkill/issues"
+    "url": "https://github.com/ShahBhargav-goc/alexaExample/issues"
   },
-  "homepage": "https://github.com/rsanjuseason/targetRecruitAlexaSkill#readme",
+  "homepage": "https://github.com/ShahBhargav-goc/alexaExample#readme",
   "dependencies": {
     "alexa-app": "^4.0.1",
     "sync-request": "^4.1.0"
